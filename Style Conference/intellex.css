@@ -15,12 +15,18 @@ header p {
 padding-top: 2px;
     height: 30px;
 }
-.hi ul li {
+.hi  li {
     display: inline;
     color: white;
-    padding: 3px;
+    padding: 1px;
     margin: 50px 50px 200px 150px;
+    
 }
+
+ul {
+    line-height: 3px;
+}
+
 .hey {
     background-color: rgb(37, 37, 116);
     color: white;
