@@ -1,0 +1,22 @@
+
+
+.video-description {
+    font-size: 14px;
+    color: gray;
+    width: 280px;
+    line-height: 22px;
+    margin-bottom: 100Px;
+}
+.apple-text {
+    margin-bottom: 50px;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding: 18px 0 18px 0;
+}
+ 
+.shop-link:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
