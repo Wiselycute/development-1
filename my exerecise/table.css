@@ -1,0 +1,69 @@
+table {
+    border-spacing: 4px;
+    border-collapse: separate;
+    border-spacing: 0;
+    color: #4a4a4d;
+    font: 14px/1.4 "helvetica Neue", helvetica, arial, sans-serif;
+}
+td {
+    text-align: center;
+    border-bottom: 1px solid #cecfd5;
+    border-bottom: 1px solid #cecfd5;
+
+}
+table, th, td {
+    border: 1px solid #cecfd5;
+}
+
+th, td {
+    padding: 10px 15px;
+    border: 1px solid #cecfd5;
+    vertical-align: middle;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background: #395870;
+    color: #fff;
+}
+
+tbody tr:nth-child(even) {
+    background: #f0f0f2;
+}
+
+tfoot tr:last-child td {
+    border-bottom: 0;
+}
+
+td:first-child {
+    border: 1px solid #cecfd5;
+}
+.book-title {
+    color: #395870;
+    display: block;
+}
+
+.item-stock,
+.item-qty {
+    text-align: center;
+}
+
+.item-price {
+    text-align: right;
+}
+
+.item-mutiple {
+    display: block;
+
+}
+
+tfoot {
+    text-align: right;
+}
+
+tfoot tr:last-child {
+    background: #f0f0f2;
+}
