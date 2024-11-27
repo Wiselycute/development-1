@@ -1,0 +1,37 @@
+table {
+    border-spacing: 4px;
+    border-collapse: separate;
+    border-spacing: 0;
+    color: #060607;
+    font: 14px/1.4 "helvetica Neue", helvetica, arial, sans-serif;
+}
+
+caption {
+    font-size: larger;
+    font-weight: 600;
+
+}
+
+td {
+    text-align: center;
+    border-bottom: 1px solid #646567;
+    border-bottom: 1px solid #545454;
+
+}
+table, th, td {
+    border: 1px solid #cecfd5;
+}
+
+th, td {
+    padding: 10px 15px;
+    border: 1px solid #0c0c0c;
+    vertical-align: middle;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background: #3395e0;
+    color: #fff;
